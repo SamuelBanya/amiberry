@@ -62,7 +62,7 @@ static gcn::Label* lblThemeTextBgColorB;
 static gcn::TextField* txtThemeTextBgColorB;
 
 //TODO add a Save button here, to save the settings to amiberry.conf
-
+static gcn::Button* cmdSaveAmiberryConfig
 
 class ThemesButtonActionListener : public gcn::ActionListener
 {
